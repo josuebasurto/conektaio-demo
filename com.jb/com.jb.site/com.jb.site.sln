@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.jb.site", "com.jb.site\com.jb.site.csproj", "{BCE8E3C5-32FB-4716-93BB-734A2535686D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.jb.biz", "..\com.jb.biz\com.jb.biz.csproj", "{980F7F86-D145-48CC-A160-6DB877662B4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE8E3C5-32FB-4716-93BB-734A2535686D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE8E3C5-32FB-4716-93BB-734A2535686D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE8E3C5-32FB-4716-93BB-734A2535686D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE8E3C5-32FB-4716-93BB-734A2535686D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980F7F86-D145-48CC-A160-6DB877662B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980F7F86-D145-48CC-A160-6DB877662B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980F7F86-D145-48CC-A160-6DB877662B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980F7F86-D145-48CC-A160-6DB877662B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
